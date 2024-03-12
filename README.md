@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thales Melo</h1>
 
-- 🔭 I’m currently focusing my studies at **CyberSecurity and Programming**
+- 🔭 I’m currently focusing my studies at **CyberSecurity, Programming and Data Analytics**
 - 🧭 Programming languages such as **C, C++, Python, Arduino, R, HTML, CSS, JavaScript**
 - 📫 How to reach me **thales.m.da.penha@gmail.com**
 
