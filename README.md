@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thales Melo</h1>
 
-- 🔭 I’m currently focusing my studies at **CyberSecurity and Programming**
-- 🧭 Programming languages such as **C, C++, Python, Arduino, R, HTML, CSS, JavaScript**
+- 🔭 I’m currently focusing my studies at **Data Science and Programming**
+- 🧭 Programming languages such as **C, C++, Python, Java, Arduino, R, Swift**
 - 📫 How to reach me **thales.m.da.penha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
